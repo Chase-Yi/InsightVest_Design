@@ -1,0 +1,82 @@
+[
+  {
+    "term": "Stock",
+    "definition": "A security that represents ownership in a company. Shareholders own a piece of the company."
+  },
+  {
+    "term": "Share",
+    "definition": "A single unit of stock. If you own 10 shares of AAPL, you own 10 units of Apple\u2019s stock."
+  },
+  {
+    "term": "Dividend",
+    "definition": "A portion of a company's profits paid to shareholders, usually quarterly."
+  },
+  {
+    "term": "Bull Market",
+    "definition": "A market condition where prices are rising or expected to rise."
+  },
+  {
+    "term": "Bear Market",
+    "definition": "A market condition where prices are falling or expected to fall."
+  },
+  {
+    "term": "IPO (Initial Public Offering)",
+    "definition": "The first time a company offers its stock to the public."
+  },
+  {
+    "term": "ETF (Exchange-Traded Fund)",
+    "definition": "A collection of securities traded on an exchange like a stock. Often tracks an index."
+  },
+  {
+    "term": "Mutual Fund",
+    "definition": "A pool of money from investors managed by professionals to invest in securities."
+  },
+  {
+    "term": "Market Cap",
+    "definition": "The total value of a company\u2019s outstanding shares: price \u00d7 number of shares."
+  },
+  {
+    "term": "Blue Chip Stock",
+    "definition": "Shares of large, stable, reputable companies with a history of performance."
+  },
+  {
+    "term": "Volatility",
+    "definition": "A measure of how much a stock\u2019s price fluctuates over time."
+  },
+  {
+    "term": "Portfolio",
+    "definition": "A collection of financial assets like stocks, bonds, ETFs owned by an investor."
+  },
+  {
+    "term": "Risk Tolerance",
+    "definition": "An investor's ability and willingness to endure losses in their portfolio."
+  },
+  {
+    "term": "P/E Ratio (Price to Earnings)",
+    "definition": "Stock price divided by earnings per share. High P/E may mean overvaluation."
+  },
+  {
+    "term": "EPS (Earnings per Share)",
+    "definition": "A company\u2019s net profit divided by its number of outstanding shares."
+  },
+  {
+    "term": "Yield",
+    "definition": "Income (like dividends or interest) received from an investment, expressed as a % of price."
+  },
+  {
+    "term": "Liquidity",
+    "definition": "How easily an asset can be converted into cash without affecting its price."
+  },
+  {
+    "term": "Broker",
+    "definition": "A person or platform that facilitates buying and selling of financial securities."
+  },
+  {
+    "term": "Order Types",
+    "definition": "Instructions to buy or sell a stock, like market order, limit order, or stop-loss."
+  },
+  {
+    "term": "Index",
+    "definition": "A benchmark representing a section of the market (e.g. S&P 500, Nasdaq-100)."
+  }
+]
